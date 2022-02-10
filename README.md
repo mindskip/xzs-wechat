@@ -41,7 +41,7 @@
 ### 学之思仓库版本地址
 
 * gitee：[https://gitee.com/mindskip/xzs-wechat](https://gitee.com/mindskip/xzs-wechat)
-* github - postgresql ：[https://github.com/mindskip/xzs-wechat](https://github.com/mindskip/xzs-wechat)
+* github：[https://github.com/mindskip/xzs-wechat](https://github.com/mindskip/xzs-wechat)
 
 ### 开发部署教程
 
