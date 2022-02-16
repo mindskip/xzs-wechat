@@ -1,4 +1,4 @@
-import{d as n}from"./app.df8143b8.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const e={},a=n(`<h1 id="_4-3-\u7BA1\u7406\u7AEF" tabindex="-1"><a class="header-anchor" href="#_4-3-\u7BA1\u7406\u7AEF" aria-hidden="true">#</a> 4.3 \u7BA1\u7406\u7AEF</h1><h3 id="_4-3-1-\u767B\u5F55" tabindex="-1"><a class="header-anchor" href="#_4-3-1-\u767B\u5F55" aria-hidden="true">#</a> 4.3.1 \u767B\u5F55</h3><ul><li>\u63A5\u53E3\u5730\u5740\uFF1A/api/user/login</li><li>\u8BF7\u6C42\u53C2\u6570\uFF1A</li></ul><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>{
+import{d as n}from"./app.9c223387.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const e={},a=n(`<h1 id="_4-3-\u7BA1\u7406\u7AEF" tabindex="-1"><a class="header-anchor" href="#_4-3-\u7BA1\u7406\u7AEF" aria-hidden="true">#</a> 4.3 \u7BA1\u7406\u7AEF</h1><h3 id="_4-3-1-\u767B\u5F55" tabindex="-1"><a class="header-anchor" href="#_4-3-1-\u767B\u5F55" aria-hidden="true">#</a> 4.3.1 \u767B\u5F55</h3><ul><li>\u63A5\u53E3\u5730\u5740\uFF1A/api/user/login</li><li>\u8BF7\u6C42\u53C2\u6570\uFF1A</li></ul><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>{
     &quot;userName&quot;: &quot;admin&quot;,  //\u7528\u6237\u540D
     &quot;password&quot;: &quot;&quot;,  //\u5BC6\u7801
     &quot;remember&quot;: false  //\u8BB0\u4F4F\u6211
@@ -723,4 +723,4 @@ import{d as n}from"./app.df8143b8.js";import{_ as s}from"./plugin-vue_export-hel
     &quot;message&quot;: &quot;\u6210\u529F&quot;,
     &quot;response&quot;: null
 }
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div>`,144);function u(l,t){return a}var p=s(e,[["render",u]]);export{p as default};
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div>`,144);function u(l,t){return a}var i=s(e,[["render",u]]);export{i as default};
