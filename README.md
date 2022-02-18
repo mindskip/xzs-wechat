@@ -4,7 +4,7 @@
 
 xzs-wechat 是一款微信小程序考试系统，可用于考试小程序、答题小程序、毕业设计小程序，有前后端源码和数据库。有完整的文档教程和视频教程，易于二次开发，部署简单快捷、界面设计友好。
 
-### 基础信息
+### 教程地址
 
 * 演示地址：[https://www.mindskip.net/xzs.html](https://www.mindskip.net/xzs.html)
 * 文档教程：[https://www.mindskip.net:999](https://www.mindskip.net:999)
