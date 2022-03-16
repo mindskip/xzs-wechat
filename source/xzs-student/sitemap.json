@@ -1,5 +1,5 @@
 {
-  "desc": "学之思系统小程序",
+  "desc": "学之思小程序",
   "rules": [{
   "action": "allow",
   "page": "*"
