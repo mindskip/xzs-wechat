@@ -4,12 +4,15 @@
 
 xzs-wechat 是一款微信小程序考试系统，可用于考试小程序、答题小程序、毕业设计小程序，有前后端源码和数据库。有完整的文档教程和视频教程，易于二次开发，部署简单快捷、界面设计友好。
 
-### 教程地址
+### 文档视频教程
 
-* 演示地址：[https://www.mindskip.net/xzs.html](https://www.mindskip.net/xzs.html)
-* 文档教程：[https://www.mindskip.net:999](https://www.mindskip.net:999)
+* 数据库脚本下载地址：[https://www.mindskip.net:888](https://www.mindskip.net:888)
+* 文档教程：[https://www.mindskip.net:888](https://www.mindskip.net:888)
 * 视频教程：[https://ke.qq.com/course/3614230](https://ke.qq.com/course/3614230)
-* QQ交流群：`675037554`
+* QQ交流群16：`556522923`
+* 商务QQ：`2732007709`
+* 商务微信：`mind_skip`
+* 商务邮箱：`mindskip@qq.com`
 
 ### 功能列表
 
@@ -30,15 +33,15 @@ xzs-wechat 是一款微信小程序考试系统，可用于考试小程序、答
 
 <table>
     <tr>
-        <td><img src="docs/images/wx/student/1.png"/></td>
-        <td><img src="docs/images/wx/student/2.png"/></td>
-        <td><img src="docs/images/wx/student/3.png"/></td>
-        <td><img src="docs/images/wx/student/4.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/1.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/2.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/3.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/4.png"/></td>
     </tr>
     <tr>
-        <td><img src="docs/images/wx/student/5.png"/></td>
-        <td><img src="docs/images/wx/student/8.png"/></td>
-        <td><img src="docs/images/wx/student/6.png"/></td>
-        <td><img src="docs/images/wx/student/7.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/5.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/8.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/6.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/wx/student/7.png"/></td>
     </tr>
 </table>
