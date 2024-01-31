@@ -11,7 +11,7 @@ xzs-wechat 是一款微信小程序考试系统，可用于考试小程序、答
 * 视频教程：[https://ke.qq.com/course/3614230](https://ke.qq.com/course/3614230)
 * QQ交流群16：`556522923`
 * 商务QQ：`2732007709`
-* 商务微信：`mind_skip`
+* 商务微信：`whmindskip`
 * 商务邮箱：`mindskip@qq.com`
 
 ### 功能列表
