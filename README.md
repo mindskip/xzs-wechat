@@ -8,8 +8,8 @@ xzs-wechat 是一款微信小程序考试系统，可用于考试小程序、答
 
 * 数据库脚本下载地址：[https://www.mindskip.net:888](https://www.mindskip.net:888)
 * 文档教程：[https://www.mindskip.net:888](https://www.mindskip.net:888)
-* 视频教程：[https://ke.qq.com/course/3614230](https://ke.qq.com/course/3614230)
-* QQ交流群16：`556522923`
+* 视频教程：[https://space.bilibili.com/1389892305](https://space.bilibili.com/1389892305)
+* QQ交流群17：`624825080`
 * 商务QQ：`2732007709`
 * 商务微信：`whmindskip`
 * 商务邮箱：`mindskip@qq.com`
